@@ -44,3 +44,4 @@ const QuoteBox = () => {
 };
 
 export default QuoteBox;
+
